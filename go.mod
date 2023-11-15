@@ -28,7 +28,7 @@ require (
 	github.com/sigstore/sigstore/pkg/signature/kms/azure v1.7.5
 	github.com/sigstore/sigstore/pkg/signature/kms/gcp v1.7.5
 	github.com/sigstore/sigstore/pkg/signature/kms/hashivault v1.7.5
-	github.com/spf13/cobra v1.7.0
+	github.com/spf13/cobra v1.8.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.17.0
 	github.com/urfave/negroni v1.0.0
@@ -37,7 +37,7 @@ require (
 	golang.org/x/net v0.18.0
 	google.golang.org/protobuf v1.31.0
 	gopkg.in/yaml.v3 v3.0.1
-	sigs.k8s.io/release-utils v0.7.6
+	sigs.k8s.io/release-utils v0.7.7
 )
 
 require (
