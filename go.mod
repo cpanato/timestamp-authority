@@ -25,7 +25,7 @@ require (
 	github.com/rs/cors v1.10.1
 	github.com/sigstore/sigstore v1.7.5
 	github.com/sigstore/sigstore/pkg/signature/kms/aws v1.7.6
-	github.com/sigstore/sigstore/pkg/signature/kms/azure v1.7.5
+	github.com/sigstore/sigstore/pkg/signature/kms/azure v1.7.6
 	github.com/sigstore/sigstore/pkg/signature/kms/gcp v1.7.5
 	github.com/sigstore/sigstore/pkg/signature/kms/hashivault v1.7.5
 	github.com/spf13/cobra v1.8.0
@@ -78,7 +78,7 @@ require (
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.2 // indirect
-	github.com/go-jose/go-jose/v3 v3.0.0 // indirect
+	github.com/go-jose/go-jose/v3 v3.0.1 // indirect
 	github.com/go-logr/logr v1.2.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-openapi/analysis v0.21.4 // indirect
