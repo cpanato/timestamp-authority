@@ -25,7 +25,7 @@ require (
 	github.com/rs/cors v1.10.1
 	github.com/sigstore/sigstore v1.8.2
 	github.com/sigstore/sigstore/pkg/signature/kms/aws v1.8.1
-	github.com/sigstore/sigstore/pkg/signature/kms/azure v1.8.1
+	github.com/sigstore/sigstore/pkg/signature/kms/azure v1.8.2
 	github.com/sigstore/sigstore/pkg/signature/kms/gcp v1.8.1
 	github.com/sigstore/sigstore/pkg/signature/kms/hashivault v1.8.2
 	github.com/spf13/cobra v1.8.0
@@ -51,7 +51,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.9.2 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.5.1 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/internal v1.5.2 // indirect
-	github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/azkeys v1.0.1 // indirect
+	github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/azkeys v1.1.0 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/internal v1.0.0 // indirect
 	github.com/AzureAD/microsoft-authentication-library-for-go v1.2.1 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 // indirect
