@@ -15,7 +15,7 @@ require (
 	github.com/go-openapi/strfmt v0.22.2
 	github.com/go-openapi/swag v0.22.10
 	github.com/go-playground/validator/v10 v10.19.0
-	github.com/golang/protobuf v1.5.3
+	github.com/golang/protobuf v1.5.4
 	github.com/google/go-cmp v0.6.0
 	github.com/google/tink/go v1.7.0
 	github.com/mitchellh/go-homedir v1.1.0
